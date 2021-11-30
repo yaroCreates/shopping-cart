@@ -1,12 +1,12 @@
-import Reac from "react"
+// import Reac from "react"
 
-function Profile () {
-    return(
-        <h1>
-            Hello from Profile
-        </h1>
-    )
-}
+// function Profile () {
+//     return(
+//         <h1>
+//             Hello from Profile
+//         </h1>
+//     )
+// }
 
 
-export default Profile
+// export default Profile
