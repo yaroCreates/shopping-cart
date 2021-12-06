@@ -1,12 +1,12 @@
 import React from "react"
 
 function Products(props){
-    const {productItems} = props
+    const {productItems, handleAddProduct} = props
     return(
         <div className='products'>
             {productItems.map((productItem) => (
-                <div className='card'>
-                    <div>
+                <div className='card' key={productItem.id}>
+                    <div >
                         <img
                             className='product-img'
                             src={productItem.image}
@@ -21,7 +21,7 @@ function Products(props){
                         {productItem.price}
                     </div>
                     <div>
-                        <button className='product-add-btn'>Add to Cart</button>
+                        <button className='product-add-btn' onClick={() => handleAddProduct(productItem)}>Add to Cart</button>
                     </div>
                 </div>
             ))}
