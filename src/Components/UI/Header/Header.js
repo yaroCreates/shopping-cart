@@ -3,7 +3,8 @@ import { Link } from 'react-router-dom'
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
 import {faShoppingCart} from '@fortawesome/free-solid-svg-icons'
 
-function Header(){
+function Header(props){
+    const {countCartItems} = props
     return(
         <header className='header'>
             <div>
@@ -28,8 +29,9 @@ function Header(){
                 
                 
                     <li>
-                        <Link to='/cart'>
+                        <Link className='badge-parent' to='/cart'>
                             <FontAwesomeIcon icon={faShoppingCart} />
+                            {countCartItems? (<button className='badge'>{countCartItems}</button>) :('')}
                         </Link>
                     </li>
                 </ul>

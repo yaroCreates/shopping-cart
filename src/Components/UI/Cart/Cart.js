@@ -1,7 +1,7 @@
 import React from "react"
 
 function Cart(props) {
-    const { cartItems, handleAddProduct, handleRemoveProduct, handleClearCart } = props
+    const { cartItems, handleAddProduct, handleRemoveProduct, handleClearCart, countCartItems } = props
 
     const totalPrice = cartItems.reduce(
         (price, item) => price + item.price * item.quantity, 0)
@@ -46,6 +46,10 @@ function Cart(props) {
             <div className='cart-items-total-price-name'>
                 Total price
                 <div className='cart-items-total-price'> N{totalPrice}</div>
+            </div>
+
+            <div className='checkout'>
+                {countCartItems? (<button className='checkout-btn'>Checkout</button>) : ('')}
             </div>
 
         </div>

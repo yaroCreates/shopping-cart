@@ -48,7 +48,7 @@ function App() {
 
   return (
     <Router>
-      <Header />
+      <Header countCartItems={cartItems.length}/>
       <RouteSwitch
         productItems={productItems}
         cartItems={cartItems}

@@ -36,6 +36,7 @@ function RouteSwitch(props) {
                             handleAddProduct={handleAddProduct}
                             handleRemoveProduct={handleRemoveProduct}
                             handleClearCart={handleClearCart}
+                            countCartItems={cartItems.length}
                             
                         />
                     </Route>
