@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/yaroCreates/shopping-cart/static/css/main.86c1028f.chunk.css",
-    "main.js": "/yaroCreates/shopping-cart/static/js/main.1245ab42.chunk.js",
-    "main.js.map": "/yaroCreates/shopping-cart/static/js/main.1245ab42.chunk.js.map",
-    "runtime-main.js": "/yaroCreates/shopping-cart/static/js/runtime-main.9ca1f5ae.js",
-    "runtime-main.js.map": "/yaroCreates/shopping-cart/static/js/runtime-main.9ca1f5ae.js.map",
-    "static/js/2.7df42ea4.chunk.js": "/yaroCreates/shopping-cart/static/js/2.7df42ea4.chunk.js",
-    "static/js/2.7df42ea4.chunk.js.map": "/yaroCreates/shopping-cart/static/js/2.7df42ea4.chunk.js.map",
-    "index.html": "/yaroCreates/shopping-cart/index.html",
-    "static/css/main.86c1028f.chunk.css.map": "/yaroCreates/shopping-cart/static/css/main.86c1028f.chunk.css.map",
-    "static/js/2.7df42ea4.chunk.js.LICENSE.txt": "/yaroCreates/shopping-cart/static/js/2.7df42ea4.chunk.js.LICENSE.txt"
+    "main.css": "/github.io/shopping-cart/static/css/main.86c1028f.chunk.css",
+    "main.js": "/github.io/shopping-cart/static/js/main.1245ab42.chunk.js",
+    "main.js.map": "/github.io/shopping-cart/static/js/main.1245ab42.chunk.js.map",
+    "runtime-main.js": "/github.io/shopping-cart/static/js/runtime-main.fd255115.js",
+    "runtime-main.js.map": "/github.io/shopping-cart/static/js/runtime-main.fd255115.js.map",
+    "static/js/2.7df42ea4.chunk.js": "/github.io/shopping-cart/static/js/2.7df42ea4.chunk.js",
+    "static/js/2.7df42ea4.chunk.js.map": "/github.io/shopping-cart/static/js/2.7df42ea4.chunk.js.map",
+    "index.html": "/github.io/shopping-cart/index.html",
+    "static/css/main.86c1028f.chunk.css.map": "/github.io/shopping-cart/static/css/main.86c1028f.chunk.css.map",
+    "static/js/2.7df42ea4.chunk.js.LICENSE.txt": "/github.io/shopping-cart/static/js/2.7df42ea4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9ca1f5ae.js",
+    "static/js/runtime-main.fd255115.js",
     "static/js/2.7df42ea4.chunk.js",
     "static/css/main.86c1028f.chunk.css",
     "static/js/main.1245ab42.chunk.js"
