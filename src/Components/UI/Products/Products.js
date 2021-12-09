@@ -18,7 +18,7 @@ function Products(props){
                         <h3>{productItem.name}</h3>
                     </div>
                     <div className='product-price'>
-                        {productItem.price}
+                        N{productItem.price}
                     </div>
                     <div>
                         <button className='product-add-btn' onClick={() => handleAddProduct(productItem)}>Add to Cart</button>

@@ -13,12 +13,12 @@ function App() {
 
 
   function handleAddProduct(product) {
-    const productExist = cartItems.find((item) => item.id === product.id)
-    if(productExist){
+    const ProductExist = cartItems.find((item) => item.id === product.id)
+    if(ProductExist){
       setCartItems(
         cartItems.map((item) =>
         item.id === product.id
-        ?{ ...productExist, quantity: productExist + 1}
+        ?{ ...ProductExist, quantity: ProductExist.quantity + 1}
         :item
         
       )
@@ -28,10 +28,35 @@ function App() {
     }
   }
 
+  function handleRemoveProduct(product) {
+    const productExist = cartItems.find((item) => item.id === product.id)
+    if(productExist.quantity === 1) {
+      setCartItems(cartItems.filter((item) => item.id !== product.id))
+    } else {
+      setCartItems(
+        cartItems.map((item) =>
+          item.id === product.id
+            ? { ...productExist, quantity: productExist.quantity - 1}
+              : item)
+      )
+    }
+  }
+
+  function handleClearCart() {
+    setCartItems([])
+  }
+
   return (
     <Router>
       <Header />
-      <RouteSwitch productItems={productItems} cartItems={cartItems} handleAddProduct={handleAddProduct}/>
+      <RouteSwitch
+        productItems={productItems}
+        cartItems={cartItems}
+        handleAddProduct={handleAddProduct}
+        handleRemoveProduct={handleRemoveProduct}
+        handleClearCart={handleClearCart}
+      />
+
     </Router>
   )
 }

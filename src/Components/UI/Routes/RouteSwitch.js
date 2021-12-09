@@ -5,7 +5,7 @@ import Signup from "../Signup/Signup"
 import Cart from "../Cart/Cart"
 
 function RouteSwitch(props) {
-    const { productItems, cartItems, handleAddProduct } = props
+    const { productItems, cartItems, handleAddProduct, handleRemoveProduct, handleClearCart} = props
     return (
         <div>
             
@@ -31,7 +31,13 @@ function RouteSwitch(props) {
                         <Signup />
                     </Route>
                     <Route path='/cart'>
-                        <Cart cartItems={cartItems} handleAddProduct={handleAddProduct} />
+                        <Cart
+                            cartItems={cartItems}
+                            handleAddProduct={handleAddProduct}
+                            handleRemoveProduct={handleRemoveProduct}
+                            handleClearCart={handleClearCart}
+                            
+                        />
                     </Route>
                 </Switch>
 
