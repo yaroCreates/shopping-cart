@@ -4,32 +4,32 @@ const data = {
             id: "1",
             name: "Liverpool FC - Home",
             price: 4999,
-            image:'./Images/liverpool2.jpg'
+            image:'/Images/liverpool2.jpg'
         },
 
         {
             id: "2",
             name: "Liverpool FC - Away",
             price: 4999,
-            image:'./Images/liverpool.jpg'
+            image:'/Images/liverpool.jpg'
         },
         {
             id: "3",
             name: "Manchester City FC - Home",
             price: 4999,
-            image:'./Images/city2.jpg'
+            image:'/Images/city2.jpg'
         },
         {
             id: "4",
             name: "Manchester City FC - Away",
             price: 4999,
-            image:'./Images/city.jpg'
+            image:'/Images/city.jpg'
         },
         {
             id: "5",
             name: "FC Barcelona - Home",
             price: 4999,
-            image:'./Images/fcb.jpg'
+            image:'/Images/fcb.jpg'
         },
         {
             id: "6",
