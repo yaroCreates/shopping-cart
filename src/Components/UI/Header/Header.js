@@ -10,7 +10,7 @@ function Header(props){
             <div>
                 <h1>
                     <Link to='/' className='logo'>
-                        JerseyStore
+                        JerseyStoreOH
                     </Link>
                 </h1>
             </div>
