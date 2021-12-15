@@ -24,13 +24,13 @@ function RouteSwitch(props) {
                         </React.Fragment>
                     )}/> */}
                 <Switch>
-                    <Route path="/" exact>
+                    <Route path="/shopping-cart/" exact>
                         <Products productItems={productItems} handleAddProduct={handleAddProduct} />
                     </Route>
-                    <Route path='/signup'>
+                    <Route path='/shopping-cart/signup'>
                         <Signup />
                     </Route>
-                    <Route path='/cart'>
+                    <Route path='/shopping-cart/cart'>
                         <Cart
                             cartItems={cartItems}
                             handleAddProduct={handleAddProduct}
