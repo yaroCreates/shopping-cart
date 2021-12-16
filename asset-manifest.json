@@ -1,20 +1,38 @@
 {
   "files": {
     "main.css": "/shopping-cart/static/css/main.86c1028f.chunk.css",
-    "main.js": "/shopping-cart/static/js/main.1c8db0af.chunk.js",
-    "main.js.map": "/shopping-cart/static/js/main.1c8db0af.chunk.js.map",
+    "main.js": "/shopping-cart/static/js/main.37b39d11.chunk.js",
+    "main.js.map": "/shopping-cart/static/js/main.37b39d11.chunk.js.map",
     "runtime-main.js": "/shopping-cart/static/js/runtime-main.c3c4442c.js",
     "runtime-main.js.map": "/shopping-cart/static/js/runtime-main.c3c4442c.js.map",
     "static/js/2.7df42ea4.chunk.js": "/shopping-cart/static/js/2.7df42ea4.chunk.js",
     "static/js/2.7df42ea4.chunk.js.map": "/shopping-cart/static/js/2.7df42ea4.chunk.js.map",
     "index.html": "/shopping-cart/index.html",
     "static/css/main.86c1028f.chunk.css.map": "/shopping-cart/static/css/main.86c1028f.chunk.css.map",
-    "static/js/2.7df42ea4.chunk.js.LICENSE.txt": "/shopping-cart/static/js/2.7df42ea4.chunk.js.LICENSE.txt"
+    "static/js/2.7df42ea4.chunk.js.LICENSE.txt": "/shopping-cart/static/js/2.7df42ea4.chunk.js.LICENSE.txt",
+    "static/media/Chelsea2.eb3b1cc1.jpg": "/shopping-cart/static/media/Chelsea2.eb3b1cc1.jpg",
+    "static/media/Manutd.bef4b10e.png": "/shopping-cart/static/media/Manutd.bef4b10e.png",
+    "static/media/ajax2.99d35828.png": "/shopping-cart/static/media/ajax2.99d35828.png",
+    "static/media/arsenal.7c04ebc5.png": "/shopping-cart/static/media/arsenal.7c04ebc5.png",
+    "static/media/atletico.ae40ff18.jpg": "/shopping-cart/static/media/atletico.ae40ff18.jpg",
+    "static/media/atletico2.0fffefa8.jpg": "/shopping-cart/static/media/atletico2.0fffefa8.jpg",
+    "static/media/chelsea3.0b5dcb74.jpg": "/shopping-cart/static/media/chelsea3.0b5dcb74.jpg",
+    "static/media/city.fb5cadd5.jpg": "/shopping-cart/static/media/city.fb5cadd5.jpg",
+    "static/media/city2.cf2a7ac3.jpg": "/shopping-cart/static/media/city2.cf2a7ac3.jpg",
+    "static/media/fcb.9091cfec.jpg": "/shopping-cart/static/media/fcb.9091cfec.jpg",
+    "static/media/liverpool.06c87f04.jpg": "/shopping-cart/static/media/liverpool.06c87f04.jpg",
+    "static/media/liverpool2.07953662.jpg": "/shopping-cart/static/media/liverpool2.07953662.jpg",
+    "static/media/manutd2.d9ce287c.jpg": "/shopping-cart/static/media/manutd2.d9ce287c.jpg",
+    "static/media/psg.9bc75435.jpg": "/shopping-cart/static/media/psg.9bc75435.jpg",
+    "static/media/psg2.9b00aab9.jpg": "/shopping-cart/static/media/psg2.9b00aab9.jpg",
+    "static/media/real.b2d15b70.jpg": "/shopping-cart/static/media/real.b2d15b70.jpg",
+    "static/media/tottenham.770d64c6.jpg": "/shopping-cart/static/media/tottenham.770d64c6.jpg",
+    "static/media/tottenham2.cb0f8836.jpg": "/shopping-cart/static/media/tottenham2.cb0f8836.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c3c4442c.js",
     "static/js/2.7df42ea4.chunk.js",
     "static/css/main.86c1028f.chunk.css",
-    "static/js/main.1c8db0af.chunk.js"
+    "static/js/main.37b39d11.chunk.js"
   ]
 }
