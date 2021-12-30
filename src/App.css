@@ -123,10 +123,24 @@
     justify-content: center;
     align-items: center;
     background-color: skyblue;
-    margin-top: 30px;
-    height: 60vh;
+    margin-top: 10px;
+    height: 80vh;
     font-size: 40px;
     font-weight: 700;
+}
+
+.left {
+    width: 50%;
+    height: 100%;
+    margin: 20px;
+    background-color: #e3e3e3;
+}
+
+.right {
+    width: 50%;
+    height: 100%;
+    margin: 20px;
+    background-color: #D62828;
 }
 
 
