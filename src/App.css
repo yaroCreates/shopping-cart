@@ -143,6 +143,10 @@
     background-color: #003049;
 }
 
+.heading-logo {
+    width: 150px;
+}
+
 
 .cart-items {
     margin: 30px auto;
