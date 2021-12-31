@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/shopping-cart/static/css/main.86c1028f.chunk.css",
-    "main.js": "/shopping-cart/static/js/main.37b39d11.chunk.js",
-    "main.js.map": "/shopping-cart/static/js/main.37b39d11.chunk.js.map",
+    "main.css": "/shopping-cart/static/css/main.35215fc9.chunk.css",
+    "main.js": "/shopping-cart/static/js/main.95087810.chunk.js",
+    "main.js.map": "/shopping-cart/static/js/main.95087810.chunk.js.map",
     "runtime-main.js": "/shopping-cart/static/js/runtime-main.c3c4442c.js",
     "runtime-main.js.map": "/shopping-cart/static/js/runtime-main.c3c4442c.js.map",
     "static/js/2.7df42ea4.chunk.js": "/shopping-cart/static/js/2.7df42ea4.chunk.js",
     "static/js/2.7df42ea4.chunk.js.map": "/shopping-cart/static/js/2.7df42ea4.chunk.js.map",
     "index.html": "/shopping-cart/index.html",
-    "static/css/main.86c1028f.chunk.css.map": "/shopping-cart/static/css/main.86c1028f.chunk.css.map",
+    "static/css/main.35215fc9.chunk.css.map": "/shopping-cart/static/css/main.35215fc9.chunk.css.map",
     "static/js/2.7df42ea4.chunk.js.LICENSE.txt": "/shopping-cart/static/js/2.7df42ea4.chunk.js.LICENSE.txt",
     "static/media/Chelsea2.eb3b1cc1.jpg": "/shopping-cart/static/media/Chelsea2.eb3b1cc1.jpg",
     "static/media/Manutd.bef4b10e.png": "/shopping-cart/static/media/Manutd.bef4b10e.png",
@@ -20,9 +20,11 @@
     "static/media/city.fb5cadd5.jpg": "/shopping-cart/static/media/city.fb5cadd5.jpg",
     "static/media/city2.cf2a7ac3.jpg": "/shopping-cart/static/media/city2.cf2a7ac3.jpg",
     "static/media/fcb.9091cfec.jpg": "/shopping-cart/static/media/fcb.9091cfec.jpg",
+    "static/media/jerserystore.e01f1743.svg": "/shopping-cart/static/media/jerserystore.e01f1743.svg",
     "static/media/liverpool.06c87f04.jpg": "/shopping-cart/static/media/liverpool.06c87f04.jpg",
     "static/media/liverpool2.07953662.jpg": "/shopping-cart/static/media/liverpool2.07953662.jpg",
     "static/media/manutd2.d9ce287c.jpg": "/shopping-cart/static/media/manutd2.d9ce287c.jpg",
+    "static/media/App.css": "/shopping-cart/static/media/ppsg.5fcce50e.jpg",
     "static/media/psg.9bc75435.jpg": "/shopping-cart/static/media/psg.9bc75435.jpg",
     "static/media/psg2.9b00aab9.jpg": "/shopping-cart/static/media/psg2.9b00aab9.jpg",
     "static/media/real.b2d15b70.jpg": "/shopping-cart/static/media/real.b2d15b70.jpg",
@@ -32,7 +34,7 @@
   "entrypoints": [
     "static/js/runtime-main.c3c4442c.js",
     "static/js/2.7df42ea4.chunk.js",
-    "static/css/main.86c1028f.chunk.css",
-    "static/js/main.37b39d11.chunk.js"
+    "static/css/main.35215fc9.chunk.css",
+    "static/js/main.95087810.chunk.js"
   ]
 }
