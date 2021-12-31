@@ -30,7 +30,7 @@
     text-decoration: none;
     color: white;
     padding-left: 40px;
-    font-weight: 200;
+    font-weight: 400;
 }
 
 .header-links {
@@ -124,7 +124,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: skyblue;
     margin-top: 10px;
     height: 80vh;
     font-size: 40px;
@@ -134,7 +133,6 @@
 .left {
     width: 50%;
     height: 100%;
-    margin: 20px;
     background-color: #fff;
     display: flex;
     justify-content: center;
@@ -144,9 +142,14 @@
 .right {
     width: 50%;
     height: 100%;
-    margin: 20px;
+    background-image: url("./images/ppsg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     background-color: #003049;
+    border-radius: 0 0 50px 50px;
 }
+
+
 
 .content1 {
     width: 60%;
